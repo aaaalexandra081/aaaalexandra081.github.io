@@ -6,15 +6,15 @@ function showPoem() {
      } else if (poemNumber === '2') {
          poemContent.innerText = '（二）\n最小的森林在苹果里 \n最小的风也在苹果里 \n最小的大海在苹果里 \n最小声的呼唤 \n也在苹果里 \n对送你苹果的那个人 \n要说：谢谢';
        } else if (poemNumber === '3') {
-           poemContent.innerText = '（三）\n街道拐弯处第三家水果店 \n经过一万遍也不曾扭头看一眼整个冬天过去了 \n左边靠着桔子 \n右边是葡萄 \n你故意没看到 \n说一万遍“对不起” \n也没有用了';}
+           poemContent.innerText = '（三）\n街道拐弯处第三家水果店 \n经过一万遍也不曾扭头看一眼 \n整个冬天过去了 \n左边靠着桔子 \n右边是葡萄 \n你故意没看到 \n说一万遍“对不起” \n也没有用了';}
            else if (poemNumber === '4') {
                poemContent.innerText = '（四）\n苹果才不害怕孤独 \n苹果籽簇在一起呼呼大睡 \n苹果挂在树上 \n恒星被星系环绕 \n星云后面是黑洞 \n流星雨决定转道降临地球 \n那时苹果还没落地 \n世界还没有地心引力';}
                else if (poemNumber === '5') {
-                   poemContent.innerText = '（五）\n苹果消失于一场奔跑之中脚踵间的风呼啦啦经过苹果苹果就越来越小 \n越来越小';}
+                   poemContent.innerText = '（五）\n苹果消失于一场奔跑之中 \n脚踵间的风呼啦啦经过苹果 \n苹果就越来越小 \n越来越小';}
                    else if (poemNumber === '6') {
                        poemContent.innerText = '（六）\n苹果诞生于告别之中 \n说过一切告别的话后 \n再无话可说 \n苹果只好发芽';}
                        else if (poemNumber === '7') {
-                           poemContent.innerText = '（七）\n有一块苹果永远噎在喉咙里有一个人一生都想吐出它谁都知道苹果红的那面有毒却不知青的那面难吃';}
+                           poemContent.innerText = '（七）\n有一块苹果永远噎在喉咙里 \n有一个人一生都想吐出它 \n谁都知道苹果红的那面有毒 \n却不知青的那面难吃';}
                            else if (poemNumber === '8') {
                                poemContent.innerText = '（八）\n苹果的流浪史 \n一万年也说不完 \n是因为 \n他说的时候 \n一直在回避重点';
                              } else if (poemNumber === '9') {
@@ -24,7 +24,7 @@ function showPoem() {
                                      else if (poemNumber === '11') {
                                          poemContent.innerText = '（十一）\n过去的悲伤与欢乐全都到此为止 \n但苹果悄悄告诉了你 \n它们又将从哪里另外开始';}
                                          else if (poemNumber === '12') {
-                                             poemContent.innerText = '（十二）\n那么快去把那个摘苹果的女子抱来放在膝上看她怎么死亡';}
+                                             poemContent.innerText = '（十二）\n那么快去把那个摘苹果的女子抱来放在膝上 \n看她怎么死亡';}
                                              else if (poemNumber === '13') {
                                                  poemContent.innerText = '（十三）\n除了苹果 \n谁还会在一万年后仍惦记你 \n谁还会在一万年后 \n仍耿耿于怀那人对你的抛弃 \n除了苹果 \n谁还能替你走到他的对面 \n继续替你索取他的爱意';}
                                                  else if (poemNumber === '14') {
@@ -32,7 +32,7 @@ function showPoem() {
                                                      else if (poemNumber === '15') {
                                                          poemContent.innerText = '（十五）\n事情的经过是这样的： \n你的河漂来苹果时 \n你正在熟睡 \n你的河 \n为你拐了一道弯 \n又一道弯 \n再一道弯 \n苹果接近你 \n又接近你 \n再接近你 \n然后永远离你而去';}
                                                          else if (poemNumber === '16') {
-                                                             poemContent.innerText = '（十六）\n事情的结局是这样的：苹果搁浅在沙滩上 \n你的河流进大海';}
+                                                             poemContent.innerText = '（十六）\n事情的结局是这样的：\n苹果搁浅在沙滩上 \n你的河流进大海';}
                                                              else if (poemNumber === '17') {
                                                                  poemContent.innerText = '（十七）\n苹果说 \n你在岸边熟睡 \n容貌使人落泪';}
                                                                  else if (poemNumber === '18') {
@@ -69,3 +69,4 @@ function showPoem() {
         poemContent.innerText = '没有那么多苹果，谢谢。';
     }
 }
+
